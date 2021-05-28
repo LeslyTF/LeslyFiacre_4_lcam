@@ -5,6 +5,10 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-size: medium;
+}
+.citation{
+    font-style: italic;
 }
 header{
     padding-left: 10%;
