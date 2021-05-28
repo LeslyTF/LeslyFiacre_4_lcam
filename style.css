@@ -10,6 +10,9 @@ body {
 .citation{
     font-style: italic;
 }
+.tmedium{
+    font-size: medium;
+}
 header{
     padding-left: 10%;
 }
